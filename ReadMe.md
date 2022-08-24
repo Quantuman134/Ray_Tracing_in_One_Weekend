@@ -1,0 +1,2 @@
+# ReadMe
+The program is from [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html#outputanimage/theppmimageformat). A amazing tutorial for ray tracing framework. Thanks for Peter Shirley!
